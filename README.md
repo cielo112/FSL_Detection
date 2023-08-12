@@ -17,7 +17,8 @@ The dataset used for training and evaluation is not provided in this repository 
 
 **Results**  
 Our LSTM-based action detection system achieves a recognition accuracy of 95% on the test dataset. It demonstrates promising performance in real-time FSL translation to text, contributing to improved communication accessibility for the hearing-impaired. The trained model weights are included in the repository as 'model_weights.h5'.
-![output](https://github.com/cielo112/FSL_Detection/assets/113077476/0183302d-baa3-4150-992f-71cc7fe484fc)
+
+![output](https://github.com/cielo112/FSL_Detection/assets/113077476/74d9f515-4f64-4cf1-beef-82253875a08c)
 
 
 
